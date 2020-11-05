@@ -1,2 +1,1 @@
-# hello-mundo
-Comecando os trabalhos
+("como sempre comecar com um ola mundo para quebrar a maldicao")
